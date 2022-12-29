@@ -23,11 +23,32 @@ class utilidades():
         model_id = ""
         for cat in category_class.search([('name','like',nombre)]):
             model_id = cat
-            if(model_id==""):    
-                 model_id = category_class.create({
-                'name': nombre,
-            })
+        if(model_id==""):    
+             model_id = category_class.create({
+            'name': nombre,
+        })
         return model_id
+    
+    def dameelid_nocrear(self,nombre,model,odoo):
+        category_class = odoo.env[model]
+        model_id = ""
+        for cat in category_class.search([('name','like',nombre)]):
+            model_id = cat
+        return model_id
+    
+    def dameelid_nocrear(self,nombre,model,campo,odoo):
+        category_class = odoo.env[model]
+        model_id = ""
+        for cat in category_class.search([(campo,'like',nombre)]):
+            model_id = cat
+        return model_id
+    
+    def get_object(self, field, needle, model, odoo):
+        category_class = odoo.env[model]
+        object = None
+        for cat in category_class.search([(field,'like', needle)]):
+            object = category_class.browse(cat)
+        return object
 
 
     def borraTodoCuidado(self, model, odoo):
