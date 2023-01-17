@@ -62,6 +62,31 @@ class utilities():
             found = True
         return found
 
+    def checkEqual(self, check, value):
+        meets = False
+        if(value ==  check):
+            meets = True
+        return meets
+
+    def checkNotEqual(self, check, value):
+        meets = False
+        if(value !=  check):
+            meets = True
+        return meets
+
+    
+    def checkIn(self, check, value):
+        meets = False
+        if(value in check):
+            meets = True
+        return meets
+
+    def checkNotIn(self, check, value):
+        meets = False
+        if(value not in  check):
+            meets = True
+        return meets
+
     def getIdNoCreate(self,nombre, model,odoo):
         category_class = odoo.env[model]
         model_id = ""
@@ -117,6 +142,7 @@ class utilities():
             if texto.upper() == elemento[0].upper():
                 retorno = elemento[1]
         return retorno
+
 
 
     def writeError(self, error):

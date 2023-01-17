@@ -95,6 +95,26 @@ class uploader():
                                 print("El dato {} ya existe en la base".format(data[const[1]]))
                                 u.writeError("Línea {} unque constraint: {}".format(contador, data[const[1]]))
                                 skip = True
+                        if (const[0] == "equal"):
+                            if(u.checkNotEqual(const[1][1], data[const[1][0]])):
+                                print("El dato {} no es igual a {}".format(data[const[1]], const[1]))
+                                u.writeError("El dato {} no es igual a {}".format(data[const[1]], const[1]))
+                                skip = True
+                        if (const[0] == "not_equal"):
+                            if(u.checkEqual(const[1][1], data[const[1][0]])):
+                                print("El dato {} es igual a {}".format(data[const[1]], const[1]))
+                                u.writeError("El dato {} es igual a {}".format(data[const[1]], const[1]))
+                                skip = True
+                        if (const[0] == "in"):
+                            if(u.checkNotIn(const[1][1], data[const[1][0]])):
+                                print("El dato {} no está en {}".format(data[const[1]], const[1]))
+                                u.writeError("El dato {} no está en {}".format(data[const[1]], const[1]))
+                                skip = True
+                        if (const[0] == "not_in"):
+                            if(u.checkIn(const[1][1], data[const[1][0]])):
+                                print("El dato {} está en {}".format(data[const[1]], const[1]))
+                                u.writeError("El dato {} está en {}".format(data[const[1]], const[1]))
+                                skip = True
                         if (const[0] == "not_null"):
                             if(not data[const[1]] or data[const[1]]=="" or data[const[1]]==0):
                                 print("El dato {} no puede estar vacío".format(data[const[1]]))

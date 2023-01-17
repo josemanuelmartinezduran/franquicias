@@ -1034,3 +1034,29 @@ Línea 4 error: La operación no se puede completar:
 - Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
 
 Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 2 error: Invalid field 'sevice_tracking' on model 'product.template' 
+Línea 3 error: Invalid field 'sevice_tracking' on model 'product.template' 
+Línea 4 error: Invalid field 'sevice_tracking' on model 'product.template' 
+Línea 2 error: Invalid field 'project-template_id' on model 'product.template' 
+Línea 3 error: Invalid field 'project-template_id' on model 'product.template' 
+Línea 3 error: El producto Logotipos no debe tener una plantilla de proyecto, ya que creará una tarea en un proyecto global. 
+Línea 2 unque constraint: PR001 
+Línea 4 unque constraint: PR003 
+Línea 5 error: El producto Asesoría no debe tener una plantilla de proyecto, ya que creará una tarea en un proyecto global. 
+Línea 2 unque constraint: PR001 
+Línea 2 unque constraint: PR001 
+Línea 2 unque constraint: PR001 
+Línea 2 error: unhashable type: 'list' 
+Línea 3 unque constraint: PR002 
+Línea 2 unque constraint: PR001 
+Línea 2 error: unhashable type: 'list' 
+Línea 3 unque constraint: PR002 
+Línea 2 unque constraint: PR001 
+Línea 2 error: unhashable type: 'list' 
+Línea 3 unque constraint: PR002 
+Línea 3 error: unhashable type: 'list' 
+Línea 4 unque constraint: PR003 
+Línea 2 unque constraint: PR001 
+Línea 2 unque constraint: PR001 
+Línea 2 unque constraint: PR001 
+Línea 2 unque constraint: PR001 
