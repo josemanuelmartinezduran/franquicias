@@ -1,0 +1,7 @@
+Producto a Fabricar,Clave de producto,Línea de producto,Clave SAT,Código de barras,Peso,Volumen,Seguimiento,Para cuantos productos producidos alcanza la lista de material mencionada,Unidad de medida,Tipo de Lista de Material,Se puede comprar,Se puede vender,"Insumo 
+( exactamente el mismo nombre que el catalogo de productos)",Cantidad de imsumos,Unidad de medida
+Preparación Masajes relajantes,PPMS,Acetie,AA456,778456697,1,0.5,Lote,10,L,Fabricar,No,No,REX01,1,L
+,PPMS,,,,,,,,,,,,REX02,200,ml
+Paquete de masaje,PQT03,Aceite,BB2354,11233445,1,0.2,Serie,10,Unidades,Kit,Si,Si,BB3,10,Unidades
+,PQT03,,,,,,,,,,,,hdkjs4,1,L
+,PQT03,,,,,,,,,,,,REX02,1,Unidades

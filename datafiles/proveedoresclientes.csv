@@ -1,0 +1,5 @@
+¿ Es cliente?,¿ Es proveedor?,Compania o individual,Nombre de la empresa o de la persona,Nombre de contacto en la empresa,Lista de precios correspondiente   ( si es cliente),Terminos de pago,Teléfono,Correo electrónico,Calle,Colonia,Código postal,Ciudad,Estado,País,RFC,¿ Se comparte este contacto con las demás sucursales?,"Si solo es de 1 sucursal:
+ Nombre de la sucursal"
+Si,Si,Individual,Juan Perez,,5% descuento,15 días,(946)-638-6034,nicole.ford75@example.com,Calle pinal 31,bello horizonte,72750,Cholula,Puebla,México,,Si,Tienda Roma Mx
+Si,Si,Compañia,Elite,Jose Manuel,,21 días,2222606743,elise@hotmail.fr,plaza noria,Noria Sur,94761,Puebla,veracruz,Mexico,CC76363829,No,
+,Si,Individual,Elise,Martin Olega,,,,,Calle pinal 31,bello horizonte,72750,Cholula,Puebla,México,,Si,Spa Center Mérida

@@ -1,0 +1,1036 @@
+Línea 3 error: Invalid field 'traking' on model 'product.template' 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Warehouse (warehouse_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Warehouse (warehouse_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Location (location_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 2 error: La unidad de medida predeterminada y la unidad de medida de compra deben estar en la misma categoría. 
+Línea 7 error: La unidad de medida predeterminada y la unidad de medida de compra deben estar en la misma categoría. 
+Línea 2 error: invalid input syntax for type integer: "Aceite Masaje"
+LINE 1: ...zone 'UTC'), 2, (now() at time zone 'UTC'), true, 'Aceite Ma...
+                                                             ^
+ 
+Línea 2 error: La operación no se puede completar:otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Restricción: stock_warehouse_orderpoint_company_id_fkey 
+Línea 2 error: La operación no se puede completar:otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Restricción: stock_warehouse_orderpoint_company_id_fkey 
+Línea 2 error: invalid input syntax for type integer: "options"
+LINE 1: ...e 'UTC'), 2, (now() at time zone 'UTC'), NULL, 1, 'options',...
+                                                             ^
+ 
+Línea 3 error: Invalid field 'customer' on model 'product.template' 
+Línea 3 error: Invalid field 'state' on model 'res.partner' 
+Línea 3 error: Invalid field 'country' on model 'res.partner' 
+Línea 2 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 3 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 4 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 5 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 6 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 7 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 2 error: invalid literal for int() with base 10: 'Servicio' 
+Línea 2 error: could not convert string to float: 'Masaje relajante de 1h' 
+Línea 2 error: could not convert string to float: 'Masaje relajante de 1h' 
+Línea 2 error: could not convert string to float: 'Masaje relajante de 1h' 
+Línea 2 error: could not convert string to float: 'Spa' 
+Línea 2 error: could not convert string to float: 'Spa' 
+Línea 2 error: Wrong value for product.template.tracking: 'Sin seguimiento' 
+Línea 2 error: Wrong value for product.template.tracking: 'Sin seguimiento' 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 2 error: Wrong value for product.template.route_ids: [(4, , 0)] 
+Línea 2 error: Wrong value for product.template.route_ids: [(4, , 0)] 
+Línea 2 error: Wrong value for product.template.route_ids: [(4, [5], 0)] 
+Línea 2 error: Wrong value for product.template.route_ids: [(6, 0, [5])] 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 2 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 6 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 6 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 7 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 6 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 7 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: When product arrives in (location_in_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 2 error: invalid literal for int() with base 10: 'fecha de caducidad' 
+Línea 3 error: invalid literal for int() with base 10: 'fecha de caducidad' 
+Línea 4 error: invalid literal for int() with base 10: 'Lote' 
+Línea 5 error: invalid literal for int() with base 10: 'fecha de caducidad' 
+Línea 6 error: invalid literal for int() with base 10: 'fecha de caducidad' 
+Línea 7 error: invalid literal for int() with base 10: 'fecha de caducidad' 
+Línea 2 error: could not convert string to float: 'Almacenable' 
+Línea 3 error: could not convert string to float: 'Almacenable' 
+Línea 4 error: could not convert string to float: 'Almacenable' 
+Línea 5 error: could not convert string to float: 'Almacenable' 
+Línea 6 error: could not convert string to float: 'Almacenable' 
+Línea 7 error: could not convert string to float: 'Almacenable' 
+Línea 2 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 3 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 4 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 5 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 6 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 7 error: invalid literal for int() with base 10: 'Almacenable' 
+Línea 2 error: could not convert string to float: 'si' 
+Línea 3 error: could not convert string to float: 'si' 
+Línea 4 error: could not convert string to float: 'si' 
+Línea 5 error: could not convert string to float: 'si' 
+Línea 6 error: could not convert string to float: 'si' 
+Línea 7 error: could not convert string to float: 'si' 
+Línea 2 error: invalid literal for int() with base 10: 'si' 
+Línea 3 error: invalid literal for int() with base 10: 'si' 
+Línea 4 error: invalid literal for int() with base 10: 'si' 
+Línea 5 error: invalid literal for int() with base 10: 'si' 
+Línea 6 error: invalid literal for int() with base 10: 'si' 
+Línea 7 error: invalid literal for int() with base 10: 'si' 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 9 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 10 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 11 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 12 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 13 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 8 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 9 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 10 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 11 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 12 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 13 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 2 error: name 'odoo' is not defined 
+Línea 2 error: 'ODOO' object is not subscriptable 
+Línea 3 error: 'ODOO' object is not subscriptable 
+Línea 4 error: 'ODOO' object is not subscriptable 
+Línea 5 error: 'ODOO' object is not subscriptable 
+Línea 6 error: 'ODOO' object is not subscriptable 
+Línea 7 error: 'ODOO' object is not subscriptable 
+Línea 8 error: 'ODOO' object is not subscriptable 
+Línea 9 error: 'ODOO' object is not subscriptable 
+Línea 10 error: 'ODOO' object is not subscriptable 
+Línea 11 error: 'ODOO' object is not subscriptable 
+Línea 12 error: 'ODOO' object is not subscriptable 
+Línea 13 error: 'ODOO' object is not subscriptable 
+Línea 14 error: 'ODOO' object is not subscriptable 
+Línea 2 error: 'NoneType' object is not iterable 
+Línea 3 error: 'NoneType' object is not iterable 
+Línea 4 error: 'NoneType' object is not iterable 
+Línea 5 error: 'NoneType' object is not iterable 
+Línea 6 error: 'NoneType' object is not iterable 
+Línea 7 error: 'NoneType' object is not iterable 
+Línea 8 error: 'NoneType' object is not iterable 
+Línea 9 error: 'NoneType' object is not iterable 
+Línea 10 error: 'NoneType' object is not iterable 
+Línea 11 error: 'NoneType' object is not iterable 
+Línea 12 error: 'NoneType' object is not iterable 
+Línea 13 error: 'NoneType' object is not iterable 
+Línea 14 error: 'NoneType' object is not iterable 
+Línea 2 error: 'NoneType' object is not iterable 
+Línea 3 error: 'NoneType' object is not iterable 
+Línea 4 error: 'NoneType' object is not iterable 
+Línea 5 error: 'NoneType' object is not iterable 
+Línea 6 error: 'NoneType' object is not iterable 
+Línea 7 error: 'NoneType' object is not iterable 
+Línea 8 error: 'NoneType' object is not iterable 
+Línea 9 error: 'NoneType' object is not iterable 
+Línea 10 error: 'NoneType' object is not iterable 
+Línea 11 error: 'NoneType' object is not iterable 
+Línea 12 error: 'NoneType' object is not iterable 
+Línea 13 error: 'NoneType' object is not iterable 
+Línea 14 error: 'NoneType' object is not iterable 
+Línea 2 unque constraint: 1 
+Línea 3 unque constraint: 2 
+Línea 4 unque constraint: 3 
+Línea 5 unque constraint: 4 
+Línea 6 unque constraint: 5 
+Línea 7 unque constraint: 6 
+Línea 2 unque constraint: 1 
+Línea 3 unque constraint: 2 
+Línea 4 unque constraint: 3 
+Línea 5 unque constraint: 4 
+Línea 6 unque constraint: 5 
+Línea 7 unque constraint: 6 
+Línea 8 unque constraint: kjh 
+Línea 9 unque constraint: kjfsdg 
+Línea 10 unque constraint: sñkdjfh 
+Línea 11 unque constraint: flsaj 
+Línea 12 unque constraint: lskjf 
+Línea 13 unque constraint: alsñfh 
+Línea 14 unque constraint: asflh 
+Línea 2 error: 'NoneType' object is not iterable 
+Línea 3 error: 'NoneType' object is not iterable 
+Línea 4 error: 'NoneType' object is not iterable 
+Línea 5 error: 'NoneType' object is not iterable 
+Línea 6 error: 'NoneType' object is not iterable 
+Línea 7 error: 'NoneType' object is not iterable 
+Línea 8 error: 'NoneType' object is not iterable 
+Línea 9 error: 'NoneType' object is not iterable 
+Línea 10 error: 'NoneType' object is not iterable 
+Línea 11 error: 'NoneType' object is not iterable 
+Línea 12 error: 'NoneType' object is not iterable 
+Línea 13 error: 'NoneType' object is not iterable 
+Línea 14 error: 'NoneType' object is not iterable 
+Línea 2 error: 'NoneType' object is not iterable 
+Línea 3 error: 'NoneType' object is not iterable 
+Línea 4 error: 'NoneType' object is not iterable 
+Línea 5 error: 'NoneType' object is not iterable 
+Línea 6 error: 'NoneType' object is not iterable 
+Línea 7 error: 'NoneType' object is not iterable 
+Línea 8 error: 'NoneType' object is not iterable 
+Línea 9 error: 'NoneType' object is not iterable 
+Línea 10 error: 'NoneType' object is not iterable 
+Línea 11 error: 'NoneType' object is not iterable 
+Línea 12 error: 'NoneType' object is not iterable 
+Línea 13 error: 'NoneType' object is not iterable 
+Línea 14 error: 'NoneType' object is not iterable 
+Línea 2 unque constraint: 1 
+Línea 3 unque constraint: 2 
+Línea 4 unque constraint: 3 
+Línea 5 unque constraint: 4 
+Línea 6 unque constraint: 5 
+Línea 7 unque constraint: 6 
+Línea 8 unque constraint: kjh 
+Línea 9 unque constraint: kjfsdg 
+Línea 10 unque constraint: sñkdjfh 
+Línea 11 unque constraint: flsaj 
+Línea 12 unque constraint: lskjf 
+Línea 13 unque constraint: alsñfh 
+Línea 14 unque constraint: asflh 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 2 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 3 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 4 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 5 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 6 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 7 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 8 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 9 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 10 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 11 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 12 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 13 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 14 error: Invalid field 'computed_price' on model 'product.pricelist.item' 
+Línea 9 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 10 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 11 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 12 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 13 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 14 error: Empresas incompatibles con los registros:
+- 'Producto: [BB3] toallas grandes' le pertenece a False y 'Producto' (product_tmpl_id: '[BB3] toallas grandes') pertenece a otra compañía. 
+Línea 2 unque constraint: 1 
+Línea 3 unque constraint: 2 
+Línea 4 unque constraint: 3 
+Línea 5 unque constraint: 4 
+Línea 6 unque constraint: 5 
+Línea 7 unque constraint: 6 
+Línea 8 unque constraint: kjh 
+Línea 9 unque constraint: kjfsdg 
+Línea 10 unque constraint: sñkdjfh 
+Línea 11 unque constraint: flsaj 
+Línea 12 unque constraint: lskjf 
+Línea 13 unque constraint: alsñfh 
+Línea 14 unque constraint: asflh 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 8 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 9 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 10 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 11 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 12 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 13 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 2 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 3 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 4 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 5 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 6 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 7 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 8 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 9 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 10 error: Invalid field 'use_expiration_date' on model 'product.template' 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 14 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Putaway Rule (stock.putaway.rule), Campo: Store to (location_out_id) 
+Línea 2 error: Wrong value for res.partner.company_type: 'options' 
+Línea 3 error: Wrong value for res.partner.company_type: 'options' 
+Línea 4 error: Wrong value for res.partner.company_type: 'options' 
+Línea 2 error: invalid input syntax for type integer: ""
+LINE 1: ...ercial_company_name"=NULL,"commercial_partner_id"='',"displa...
+                                                             ^
+ 
+Línea 3 error: invalid input syntax for type integer: ""
+LINE 1: ...ercial_company_name"=NULL,"commercial_partner_id"='',"displa...
+                                                             ^
+ 
+Línea 4 error: invalid input syntax for type integer: ""
+LINE 1: ...ercial_company_name"=NULL,"commercial_partner_id"='',"displa...
+                                                             ^
+ 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Type (type) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Unit of Measure (uom_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 7 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Product Category (categ_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Tracking (tracking) 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Minimum Inventory Rule (stock.warehouse.orderpoint), Campo: Product (product_id) 
+Línea 2 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 4 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 5 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 7 error: ¡Solo se puede asignar un código de barras a un producto! 
+Línea 2 error: Wrong value for product.template.type: 'prduct' 
+El dato  no puede estar vacío 
+Línea 4 error: Wrong value for product.template.type: 'prduct' 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Purchase Unit of Measure (uom_po_id) 
+El dato  no puede estar vacío 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Product Template (product.template), Campo: Purchase Unit of Measure (uom_po_id) 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+El dato  no puede estar vacío 
+Línea 2 error: Invalid field 'uom_id' on model 'mrp.bom.line' 
+Línea 3 error: Invalid field 'uom_id' on model 'mrp.bom.line' 
+Línea 4 error: Invalid field 'uom_id' on model 'mrp.bom.line' 
+Línea 5 error: Invalid field 'uom_id' on model 'mrp.bom.line' 
+Línea 6 error: Invalid field 'uom_id' on model 'mrp.bom.line' 
+Línea 2 error: Invalid field 'worcener_id' on model 'mrp.routing.workcenter' 
+Línea 3 error: Invalid field 'worcener_id' on model 'mrp.routing.workcenter' 
+Línea 4 error: Invalid field 'worcener_id' on model 'mrp.routing.workcenter' 
+Línea 5 error: Invalid field 'worcener_id' on model 'mrp.routing.workcenter' 
+Línea 6 error: Invalid field 'worcener_id' on model 'mrp.routing.workcenter' 
+Línea 2 error: Invalid field 'workcener_id' on model 'mrp.routing.workcenter' 
+Línea 3 error: Invalid field 'workcener_id' on model 'mrp.routing.workcenter' 
+Línea 4 error: Invalid field 'workcener_id' on model 'mrp.routing.workcenter' 
+Línea 5 error: Invalid field 'workcener_id' on model 'mrp.routing.workcenter' 
+Línea 6 error: Invalid field 'workcener_id' on model 'mrp.routing.workcenter' 
+Línea 2 error: Invalid field 'time_cicle_manual' on model 'mrp.routing.workcenter' 
+Línea 3 error: Invalid field 'time_cicle_manual' on model 'mrp.routing.workcenter' 
+Línea 4 error: Invalid field 'time_cicle_manual' on model 'mrp.routing.workcenter' 
+Línea 5 error: Invalid field 'time_cicle_manual' on model 'mrp.routing.workcenter' 
+Línea 6 error: Invalid field 'time_cicle_manual' on model 'mrp.routing.workcenter' 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Work Center Usage (mrp.routing.workcenter), Campo: Work Center (workcenter_id) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Work Center Usage (mrp.routing.workcenter), Campo: Work Center (workcenter_id) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Work Center Usage (mrp.routing.workcenter), Campo: Work Center (workcenter_id) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Work Center Usage (mrp.routing.workcenter), Campo: Work Center (workcenter_id) 
+Línea 6 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Work Center Usage (mrp.routing.workcenter), Campo: Work Center (workcenter_id) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 4 error: Wrong value for project.project.rating_status_period: 'bimothly' 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 4 error: Wrong value for project.project.rating_status_period: 'bimothly' 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 2 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 5 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Rating Frequency (rating_status_period) 
+Línea 3 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
+Línea 4 error: La operación no se puede completar:
+- Si está creando/actualizando un registro: no se ha establecido un campo obligatorio.
+- Si está eliminando un registro: otro modelo necesita el registro que quieres eliminar. Si es posible, archívalo.
+
+Modelo: Project (project.project), Campo: Customer Ratings Status (rating_status) 
