@@ -1,0 +1,10 @@
+Tipo de sucursal,Concepto,Tipo de cálculo,Monto (solo si es fijo),Porcentaje del total de venta,Hacer el cálculo sin o con IVA,Frecuencia,Día de cobro,¿ Produce bloqueo?,Días entre fecha de corte y bloqueo,¿ Se desbloquea automaticamente una vez pagado?
+Spa,licencia de sistema,Fijo,2000,,Sin IVA,Bajo demanda,,Si,10,Si
+Spa,Regalia,%,,2,,semanal,Martes,No,0,Si
+Spa,Publicidad,%,,6,,Bimestral,14,No,2,Si
+Tienda BtoB,licencia de sistema,Fijo,1000,,,trimestral,1,Si,10,Si
+Tienda BtoB,Regalia,%,,2,,semanal,lunes,No,0,Si
+Tienda BtoB,Publicidad,%,,2,,mensual,1,No,2,Si
+Spa& Tienda,licencia de sistema,Fijo,4000,,,trimestral,2,Si,10,No
+Spa& Tienda,Regalia,%,,2,,semanal,Martes,si,0,No
+Spa& Tienda,Publicidad,%,,10,,Bimestral,16,si,2,No

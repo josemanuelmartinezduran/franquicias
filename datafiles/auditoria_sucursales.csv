@@ -1,0 +1,22 @@
+Nombre de la matriz de supervisión,Nombre de la sección,Pregunta,Puesto,Tipo,Respuesta correcta,Calificación por respuestas (selección)
+Supervisión en tienda,administrativa,¿Se revisó el establecimiento en la apertura?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Se registrarón las asistencias?,,Si/no,"Si,",5
+Supervisión en tienda,administrativa,"¿La presentación del personal es la adecuada? (vestimenta, fisico)",,Si/no,"Si,",7
+Supervisión en tienda,administrativa,¿Se elaboró ficha del día?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿La apertura se realizo en tiempo?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿El pizarrón se encuentra actualizado?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Las prendas colgadas tienen precio actualizado?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Los gastos de caja chica se encuentran actualizados?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Se encuentra limpia el área de caja?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Se encuentran limpios los probadores?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿El almacén se encuentra en orden?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Se realizó corte de caja a los $3000?,,Si/no,"Si,",1
+Supervisión en tienda,administrativa,¿Los exhibidores se encuentran llenos?,,Si/no,No,1
+Supervisión en tienda,administrativa,¿Los exhibidores se encuentran acomodados?,,Si/no,No,10
+Supervisión en tienda,administrativa,¿Los anuncios de Qr para quejas se encuentran visibles?,,Si/no,No,1
+Supervisión en tienda,administrativa,¿Se encuentra el efectivo en la caja fuerte?,,Si/no,No,1
+Supervisión en tienda,administrativa,¿Se activo la alarma antes de cerrar?,,Si/no,No,7
+Supervisión en tienda,Cumplimiento en números,¿ Cánto dinero hay en la caja?,,Numérica,Menor a 4,3
+Supervisión en tienda,Cumplimiento en números,¿ Cuantos clientes entreron en la mañana?,,Numérica,5,3
+Supervisión en tienda,Cumplimiento en números,¿ Cuantos masajes hubo en el día?,,Numérica,6,3
+Supervisión en tienda,Comentarios,¿ Como es el ambiente de la tienda,,Texto abierto,Hola,1
