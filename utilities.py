@@ -55,6 +55,16 @@ class utilities():
         })
         return model_id
     
+    def csvToMany2many(self, texto, objeto, campo, odoo):
+        string_list = texto.split(",")
+        resultado = []
+        for element in string_list:
+            element = element.strip()
+            id_resultado = self.getIdNoCreate(element, objeto, campo, odoo)
+            if(id_resultado != "" and element != ""):
+                resultado.append(id_resultado)
+        return resultado
+    
     def existsInModel(self, model, field, value, odoo):
         found = False
         check_class =  odoo.env[model]

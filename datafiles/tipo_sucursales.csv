@@ -1,0 +1,6 @@
+Tipo de sucursal,Zona,Tamaño,Unidades de negocio activas,¿La sucursal fabrica?,Lista de precio Base,Listas de precios habilitadas (Separar por comas)
+Spa,,,5,,estandar,Clientes frecuentes
+Tienda BtoB,,,10,,estandar,10% de descuento
+Spa& Tienda,,,3,,estandar,"5% de descuento,"
+Tiendas Bto C,Puebla,,,,Precios Puebla," 5% de descuento, 10% de descuento, clientes frecuentes"
+Tiendas Bto C,México,,,,Precios Mexico," 5% de descuento, 10% de descuento, clientes frecuentes"

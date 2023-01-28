@@ -5,7 +5,7 @@ class format():
     options = ""
     model = ""
     compare = ""
-    
+
     def __init__(self, field, type, index, options, model, compare):
         self.field = field
         self.type = type
@@ -13,4 +13,5 @@ class format():
         self.options = options
         self.compare = compare
         self.model = model
+
         
