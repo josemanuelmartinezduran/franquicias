@@ -299,7 +299,12 @@ class updater():
                         valor = row[f.index]
                         data[f.field] = valor
                     elif(f.type=="many2many"):
-                        data[f.field] = "[(6, 0, {})]".format(f.index)
+                        valor = row[f.index]
+                        data[f.field] = "[(4, {}, 0)]".format(valor)
+                    elif(f.type=="many2many_search"):
+                        valor = row[f.index]
+                        field_id = u.getIdNoCreate(valor, f.model, f.compare, c)
+                        data[f.field] = "[(4, {}, 0)]".format(field_id)
                     elif(f.type=="many2many_selection"):
                         valor = row[f.index]
                         formated_dict = u.selectionToString(valor, f.options)
@@ -350,6 +355,7 @@ class updater():
                                 u.writeError("El dato {} no puede estar vacío".format(data[const[1]]))
                                 skip = True
                     if not skip:
+                        print(type(data))
                         updated = origin_class.write([id], data)
                         print("Updated {}".format(updated))
                 except Exception as e:

@@ -3,7 +3,7 @@ con = connection.connection()
 c = con.getConnection()
 util = utilities.utilities()
 format_list = []
-format_list.append(format.format("field", "many2many", util.col2num("column"), ["IndexList"]), "", ""))
+format_list.append(format.format("productos_disponibles", "many2many_search", util.col2num("C"), "", "product.template", "default_code"))
 
 u = uploader.updater()
-u.update("tipo_franquicia", format_list, 2, 10000, "productos_tipo_franquicia.csv", util.col2num("A"), "many2one", "name", [])
+u.update("franquicia.tipo", format_list, 2, 5, "spa_productos.csv", util.col2num("A"), "many2one", "tipo_sucursal", [])

@@ -107,7 +107,7 @@ class utilities():
     def getIdNoCreate(self,nombre,model,campo,odoo):
         category_class = odoo.env[model]
         model_id = ""
-        for cat in category_class.search([(campo,'ilike',nombre)]):
+        for cat in category_class.search([(campo,'=',nombre)]):
             model_id = cat
         return model_id
     

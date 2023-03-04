@@ -13,5 +13,4 @@ class format():
         self.options = options
         self.compare = compare
         self.model = model
-
-        
+       

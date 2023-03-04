@@ -1189,3 +1189,98 @@ Línea 3 error: Wrong value for franquicia.tipo.listas_precio_habilitadas: [(6, 
 Línea 4 error: Wrong value for franquicia.tipo.listas_precio_habilitadas: [(6, 0, [8,5])] 
 Línea 5 error: Wrong value for franquicia.tipo.listas_precio_habilitadas: [(6, 0, [8,9,10])] 
 Línea 6 error: Wrong value for franquicia.tipo.listas_precio_habilitadas: [(6, 0, [8,9,10])] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, )] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, 10)] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, 11)] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, 12)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, 10)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [10])] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 10, 0)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: (4, 10, 0) 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: (4, 11, 0) 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: (4, [10], 0) 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, [10], 0)] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, [11], 0)] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, [12], 0)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 10, 0)] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 11, 0)] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 12, 0)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 10, 0)] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [10])] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [11])] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [12])] 
+Línea 2 error: unhashable type: 'dict' 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [10])] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [11])] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(6, 0, [12])] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [[(4, 10, 0)]] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [[(4, 11, 0)]] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [[(4, 12, 0)]] 
+Línea 2 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 10, 0)] 
+Línea 3 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 11, 0)] 
+Línea 4 error: Wrong value for franquicia.tipo.productos_disponibles: [(4, 12, 0)] 
+Línea 2 error: invalid input syntax for type integer: "model"
+LINE 1: ...UTC'), true, '2023-03-01 16:05:53', 'Jalisco', 0, 'model', N...
+                                                             ^
+ 
+Línea 2 error: invalid input syntax for type integer: "model"
+LINE 1: ...UTC'), true, '2023-03-01 16:06:17', 'Jalisco', 0, 'model', N...
+                                                             ^
+ 
+Línea 73 unque constraint: 6330 N 
+Línea 74 unque constraint: 2218 N 
+Línea 75 unque constraint: 1230 N 
+Línea 76 unque constraint: 3650 CT 
+Línea 77 unque constraint: 5010 CN 
+Línea 78 unque constraint: 5010 SN 
+Línea 79 unque constraint: 5010 CB 
+Línea 80 unque constraint: 2811/1 
+Línea 81 unque constraint: 2811/2 
+Línea 82 unque constraint: 2811/3 
+Línea 83 unque constraint: 2811/5 
+Línea 84 unque constraint: 2829/1 NS 
+Línea 73 unque constraint: 6330 N 
+Línea 74 unque constraint: 2218 N 
+Línea 75 unque constraint: 1230 N 
+Línea 76 unque constraint: 3650 CT 
+Línea 77 unque constraint: 5010 CN 
+Línea 78 unque constraint: 5010 SN 
+Línea 79 unque constraint: 5010 CB 
+Línea 80 unque constraint: 2811/1 
+Línea 81 unque constraint: 2811/2 
+Línea 82 unque constraint: 2811/3 
+Línea 83 unque constraint: 2811/5 
+Línea 84 unque constraint: 2829/1 NS 
+Línea 85 unque constraint: 2829/3 NS 
+Línea 86 unque constraint: 2829/5 NS 
+Línea 87 unque constraint: 2829/9 NS 
+Línea 88 unque constraint: 1260 MA 
+Línea 89 unque constraint: 1260 MS 
+Línea 90 unque constraint: 2313 L/M 
+Línea 91 unque constraint: 2309 L/M 
+Línea 92 unque constraint: 2330 L/M 
+Línea 93 unque constraint: ELD-040 
+Línea 94 unque constraint: ELD-050 
+Línea 95 unque constraint: ELD-060 
+Línea 96 unque constraint: ELD-070 
+Línea 98 unque constraint: L46608 
+Línea 99 unque constraint: L48300 
+Línea 2 error: unhashable type: 'list' 
+Línea 2 error: unhashable type: 'list' 
+Línea 2 error: Invalid field 'garantia' on model 'product.template' 

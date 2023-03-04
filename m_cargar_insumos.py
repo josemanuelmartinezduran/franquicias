@@ -5,7 +5,7 @@ id_company = 1
 
 format_list = []
 #format_list.append(format.format("company_id", "static", id_company, 1, "", ""))
-format_list.append(format.format("purchase_ok", "static", 1, "", "", ""))
+format_list.append(format.format("purchase_ok", "static", 1, 1, "", ""))
 format_list.append(format.format("sale_ok", "static", 0, "", "", ""))
 format_list.append(format.format("name", "string", 0, "", "", ""))
 format_list.append(format.format("categ_id", "many2one", 1, "Create", "product.category", "name"))
@@ -44,6 +44,6 @@ format_list3.append(format.format("product_id", "many2one", 2, "NoCreate", "prod
 
 
 u = uploader.uploader()
-u.upload("product.template", format_list, 2, 1000, "comprasmatriz.csv")
-u.upload("stock.warehouse.orderpoint", format_list2, 2, 1000, "comprasmatriz.csv")
-u.upload("stock.putaway.rule", format_list3, 2, 1000, "comprasmatriz.csv")
+u.upload("product.template", format_list, 2, 3, "listainsum.csv")
+#u.upload("stock.warehouse.orderpoint", format_list2, 2, 3, "listainsum.csv")
+#u.upload("stock.putaway.rule", format_list3, 2, 3, "listainsum.csv")
