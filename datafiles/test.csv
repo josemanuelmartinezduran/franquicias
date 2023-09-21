@@ -1,0 +1,7 @@
+﻿Tipo de Sucursal,Descripción,Linea de producto,Codigo,Precio Compra promedio,Unidad de medida,Clave de producto SAT,Código de barras,Descripción larga,Descripción para proveedores,Peso,Volumen,Es un gasto indirecto,Seguimiento,Tipo,Stock optimo DE ESTE TIPO DE SUCURSAL,Punto de reorden DE ESTE TIPO DE SUCURSAL,Multiple DE ESTE TIPO DE SUCURSAL
+Spa,Aceite de masaje neutral,Aceite Masaje,REX01,200,L,0,7455647238,aceite de masaje de litro,1l de aceite de masaje neutral,,25,No,Sin seguimiento,Almacenable,30,20,5
+Spa,aceite esencial de lavanda,,REX02,500,Unidades,,7455647231,lavanda salvaje,botellas de 250 ml de aceite,,,No,Lote,Almacenable,,,
+Spa,toallas grandes,,BB3,150,Unidades,,78743894,toallas de masaje,taoalla 20x20,,,Si,Sin seguimiento,Almacenable,,,
+Spa,mesa de masajes,,hdkjs4,6000,Unidades,,423432o,mesa,mesa de msaje protatil,10,10,Si,Sin seguimiento,Consumible,,,
+Spa,Proyecto de marketing,,jdsgf,10000,Unidades,,,proyecto mensual,paquete de publicidad facebook,,,Si,Sin seguimiento,Servicio,,,
+Spa,Proyecto de marketing,,jdsgf,10000,Unidades,,,proyecto mensual,paquete de publicidad facebook,,,Si,Sin seguimiento,Servicio,,,

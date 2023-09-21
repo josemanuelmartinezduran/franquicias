@@ -1,0 +1,8 @@
+Nombre del servicio,Clave del servicio,Linea de Servicio,Precio de lista ,Unidad de medida,Disponible en punto de venta,Codigo de barras,Días para poderlo entregar al cliente,Descripción del servicio,Coste,Politica de Facturación,Al vender el proyecto: ,Nombre de la plantilla Correspondente Llenar solamente si se genera un proyecto en base a una plantilla,Nombre de la plantilla a la cuál se agrega la tarea,Clave de producto SAT,Claves de Unidad SAT,Precio amigable,Precio menudeo,Precio consumidor puntual,Precio mayoreo,Días de garantía,% Comisión para vendedor,% Comisión para referidos
+Procesos,PR001,Consultoría,10000,Hora,no,,,Procesos,,Por entrega, Se crea un proyecto en base a una plantilla,Plantilla Procesos,,,,,,,,,5,5
+Logotipos,PR002,Ayuda,15000,Unidades,no,,,logotipos,,Por entrega, Se crea un proyecto en base a una plantilla,Plantilla Comunicación,,,,,,,,,5,5
+Comunicación,PR003,Consultoría,12000,Hora,no,,,comunicación,200,Por Proyecto,Se crea un nuevo proyecto ,,,,,,,,,,5,5
+Asesoría,PR004,Consultoría,1000,Unidades,Si,,,je vais,,Por horas trabajadas,Se agrega una tarea,,Horas,,,,,,,,10,5
+Hora,,,,,,,,,,,,,,,,,,,,,0,5
+,,,,,,,,,,,,,,,,,,,,,0,5
+,,,,,,,,,,,,,,,,,,,,,0,

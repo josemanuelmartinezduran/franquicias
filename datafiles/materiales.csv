@@ -1,0 +1,7 @@
+Producto a Fabricar,Clave de producto a fabricar,Línea de producto,Para cuantos productos producidos alcanza la lista de material mencionada,Unidad de medida del producto fabricado,Tipo de Lista de Material,"Insumo 
+( exactamente el mismo nombre que el catalogo de productos)",Cantidad de imsumos,Unidad de medida del insumo
+Preparación Masajes relajantes,PPMS,Acetie,10,L,Fabricar,REX01,1,L
+Preparación Masajes relajantes,PPMS,,,,,REX02,200,ml
+Paquete de masaje,PQT03,Aceite,10,Unidades,Kit,BB3,10,Unidades
+,PQT03,,,,,hdkjs4,1,L
+,PQT03,,,,,REX02,1,Unidades

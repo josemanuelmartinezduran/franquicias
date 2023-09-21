@@ -1,0 +1,5 @@
+Seleccionar el producto,Seleccionar Proveedor 1,Precio del proveedor 1,Moneda,Seleccionar Proveedor 2,Precio del proveedor 2,Moneda,Seleccionar Proveedor 3,Precio del proveedor 3,Moneda,Seleccionar Proveedor 4,Precio del proveedor 4,Moneda
+1,Juan perez,450,MXN,Elite,200,MXN,,,MXN,,,MXN
+2,Elite,100,MXN,,,MXN,,,,,,
+3,Juan perez,200,MXN,,,MXN,,,,,,
+4,Elite,1400,MXN,Juan perez,100,MXN,,,,,,

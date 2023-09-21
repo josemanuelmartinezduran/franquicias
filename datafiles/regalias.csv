@@ -1,0 +1,10 @@
+Tipo de sucursal,Concepto,Clave de Producto,Clave de producto SAT,Claves de Unidad SAT,Tipo de cálculo,Monto (solo si es fijo),Porcentaje del total de venta,Hacer el cálculo sin o con IVA,Frecuencia,Día de cobro,¿ Produce bloqueo?,Días entre fecha de corte y bloqueo,¿ Se desbloquea automaticamente una vez pagado?
+Spa,licencia de sistema,Licenciaspa,,,Fijo,2000,,Sin IVA,Bajo demanda,,Si,10,Si
+Spa,Regalia,regaliaspa,,,%,,2,,semanal,Martes,No,0,Si
+Spa,Publicidad,Publicidadspa,,,%,,6,,Bimestral,14,No,2,Si
+Tienda BtoB,licencia de sistema,LicenciasBtoB,,,Fijo,1000,,,trimestral,1,Si,10,Si
+Tienda BtoB,Regalia,regaliaBtoB,,,%,,2,,semanal,lunes,No,0,Si
+Tienda BtoB,Publicidad,Publicidadbtob,,,%,,2,,mensual,1,No,2,Si
+Spa& Tienda,licencia de sistema,Licenciasgrande,,,Fijo,4000,,,trimestral,2,Si,10,No
+Spa& Tienda,Regalia,regaliagrande,,,%,,2,,semanal,Martes,si,0,No
+Spa& Tienda,Publicidad,Publicidadgrande,,,%,,10,,Bimestral,16,si,2,No

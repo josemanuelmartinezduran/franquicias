@@ -1,0 +1,6 @@
+Tipo de sucursal,Zona,Tamaño,¿La sucursal fabrica?
+Spa,Puebla,grande,Si
+Tienda BtoB,México,mediano,No
+Spa& Tienda,,chico,Si
+Tiendas Bto C,,,No
+Tiendas Bto C,,,Si

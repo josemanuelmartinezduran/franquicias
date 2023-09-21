@@ -1,0 +1,15 @@
+Tipo de sucursal,Nombre del Producto,Clave de producto,Categoría ( linea) de producto,Unidad de medida,¿ Se vende en el punto de venta?,Código de barras,Descripción larga,Peso,Volumen,Días para entregarlo al cliente,método de abastecimiento,Seguimiento (Sin seguimiento/Lote/Serie,¿ Tiene fecha de caducidad?,Días antes de caducar,Días a Consumir preferentemente,Días para quitar el producto,Tipo ,Clave de producto SAT,Claves de Unidad SAT,Días de garantía,% Comisión para vendedor,% Comisión para referidos,Stock Optimo DE ESTE TIPO DE SUCURSAL,Punto de reorden DE ESTE TIPO DE SUCURSAL,Multiple de re-orden DE ESTE TIPO DE SUCURSAL,Precio Base  del producto en este tipo de surcursal
+Tiendas Bto C,Botella de aceite con Lavanda,1,Masaje,Unidades,Si,,Botella de aceite con Lavanda,,,0,lo fabricamos,Lote,No,25,20,26,Almacenable,,,,2,,15,5,1,50
+Tiendas Bto C,Lavanda 250 ml,2,Masaje,Unidades,Si,,Lavanda 250 ml,,,0,lo compramos,Lote,No,25,20,26,Almacenable,,,6,2,,12,5,1,40
+Tiendas Bto C,Kit de toallas,3,Masaje,Unidades,Si,,Kit de toallas,,,0,lo fabricamos,Lote,Si,25,20,26,Almacenable,,,,2,,10,4,1,30
+Tiendas Bto C,Mandarina 250,4,Masaje,Unidades,Si,,Mandarina 250,,,0,lo compramos,Lote,Si,25,20,26,Almacenable,,,,2,,5,6,1,10
+Tiendas Bto C,Botella de aceite de coco de 1l,5,Jaccuzi,Unidades,Si,,Botella de aceite de coco de 1l,,,0,lo compramos,Lote,No,25,20,26,Almacenable,,,,2,,8,3,1,20
+Tiendas Bto C,Botella de aceite de almendras de 250 ml,6,Hammam,Unidades,Si,,Botella de aceite de sesamo de 250 ml,,,0,ambos,Lote,No,25,20,26,Almacenable,,,,2,,17,2,1,30
+Tiendas Bto C,Botella de aceite de almendras de 250 ml,6,Hammam,Unidades,Si,,Botella de aceite de sesamo de 250 ml,,,0,ambos,Lote,No,25,20,26,Almacenable,,,,2,,17,2,1,20
+Spa,Botella de aceite con Lavanda,1,Masaje,Unidades,Si,,Botella de aceite con Lavanda,,,0,lo fabricamos,Lote,No,25,20,26,Almacenable,,,,2,,677,20,5,1000
+Spa,Lavanda 250 ml,2,Masaje,Unidades,Si,,Lavanda 250 ml,,,0,lo compramos,Lote,No,25,20,26,Almacenable,,,6,2,,383,30,5,20000
+Spa,Kit de toallas,3,Masaje,Unidades,Si,,Kit de toallas,,,0,lo fabricamos,Lote,Si,25,20,26,Almacenable,,,,2,,373,40,5,30303
+Spa,Mandarina 250,4,Masaje,Unidades,Si,,Mandarina 250,,,0,lo compramos,Lote,Si,25,20,26,Almacenable,,,,2,,4,20,5,5585
+Spa,Botella de aceite de coco de 1l,5,Jaccuzi,Unidades,Si,,Botella de aceite de coco de 1l,,,0,lo compramos,Lote,No,25,20,26,Almacenable,,,,2,,100,30,5,28282
+Spa,Botella de aceite de almendras de 250 ml,6,Hammam,Unidades,Si,,Botella de aceite de sesamo de 250 ml,,,0,ambos,Lote,No,25,20,26,Almacenable,,,,2,,200,40,5,4985
+Spa,Botella de aceite de almendras de 250 ml,6,Hammam,Unidades,Si,,Botella de aceite de sesamo de 250 ml,,,0,ambos,Lote,No,25,20,26,Almacenable,,,,2,,4000,1,5,3249

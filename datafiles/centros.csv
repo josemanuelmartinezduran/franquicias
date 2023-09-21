@@ -1,0 +1,6 @@
+Nombre del centro de trabajo,% Eficacia del centro de trabajo,Capacidad del centro de trabajo ,% de eficiencia Objetivo,Costo por hora,Minutos de preparación antes de la producción,Minutos de preparación despues de la producción
+Preparación caliente,60%,4,80,250,50,40
+Mezcla,80%,4,85,100,20,40
+Refri,100,10,100,50,0,0
+Embotellamiento,90,1,90,200,10,20
+Etiquetado,90,2,90,100,10,10
