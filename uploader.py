@@ -85,6 +85,10 @@ class uploader():
                         data[f.field] = valor
                     elif(f.type=="many2many"):
                         data[f.field] = "[(6, 0, {})]".format(f.index)
+                    elif(f.type=="many2many_search"):
+                        valor = row[f.index]
+                        record_id = u.getIdNoCreate(valor, f.model, f.options, c)
+                        data[f.field] = "[(6, 0, ['{}'])]".format(str(record_id))
                     elif(f.type=="many2many_selection"):
                         valor = row[f.index]
                         formated_dict = u.selectionToString(valor, f.options)

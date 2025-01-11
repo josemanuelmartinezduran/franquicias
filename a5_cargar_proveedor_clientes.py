@@ -8,10 +8,10 @@ con = connection.connection()
 c = con.getConnection()
 util = utilities.utilities()
 id_mx = util.getIdNoCreate("México", "res.country", "name", c)
-nombre_archivo = "clientes.csv"
-es_franquicia = True
+nombre_archivo = "prov.csv"
+es_franquicia = False
 fina_inicial = 2
-fila_final= 4
+fila_final= 100
 format_list = []
 format_list.append(format.format("customer", "boolean",
                    util.col2num("A"), "options", "model", "compare"))

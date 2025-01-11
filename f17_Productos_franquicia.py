@@ -5,7 +5,7 @@ util = utilities.utilities()
 format_list = []
 u = uploader.uploader()
 # Modificar por consultor
-nombre_archivo = "productos_venta.csv"
+nombre_archivo = "productos_saza.csv"
 fila_inicial = 2
 fila_final = 100
 cargar_seguimiento = True

@@ -7,9 +7,9 @@ c = con.getConnection()
 util = utilities.utilities()
 
 # Modificar por consultor
-nombre_archivo = "listas.csv"
+nombre_archivo = "CAH.csv"
 fila_inicial = 2
-fila_final = 20
+fila_final = 200
 
 
 format_list = []
@@ -17,7 +17,7 @@ format_list = []
 format_list.append(format.format(
     "name", "string", util.col2num("B"), "", "", ""))
 format_list.append(format.format("project_id", "many2one",
-                   util.col2num("A"), "NoCreate", "project.project", "name"))
+                   util.col2num("A"), "Create", "project.project", "name"))
 format_list.append(format.format(
     "description", "string", util.col2num("D"), "", "", ""))
 format_list.append(format.format(
@@ -25,7 +25,7 @@ format_list.append(format.format(
 format_list.append(format.format(
     "recurring_task", "boolean", util.col2num("F"), "", "", ""))
 format_list.append(format.format("stage_id", "many2one",
-                   util.col2num("C"), "Create", "project.task.type", "name"))
+                   util.col2num("C"), "NoCreate", "project.task.type", "name"))
 
 
 u = uploader.uploader()
@@ -38,7 +38,7 @@ format_list = []
 format_list.append(format.format(
     "name", "string", util.col2num("B"), "", "", ""))
 format_list.append(format.format("project_id", "many2one",
-                   util.col2num("A"), "NoCreate", "project.project", "name"))
+                   util.col2num("A"), "Create", "project.project", "name"))
 format_list.append(format.format(
     "description", "string", util.col2num("D"), "", "", ""))
 format_list.append(format.format(
@@ -46,7 +46,7 @@ format_list.append(format.format(
 format_list.append(format.format(
     "recurring_task", "boolean", util.col2num("F"), "", "", ""))
 format_list.append(format.format("stage_id", "many2one",
-                   util.col2num("C"), "Create", "project.task.type", "name"))
+                   util.col2num("C"), "NoCreate", "project.task.type", "name"))
 format_list.append(format.format("repeat_unit", "selection", util.col2num("G"), [(
     "Días", "day"), ("Semanas", "week"), ("Meses", "month"), ("Años", "year")], "", ""))
 format_list.append(format.format("repeat_type", "static", 1, "forever", 1, 1))
@@ -74,7 +74,7 @@ u.upload("project.task", format_list, fila_inicial, fila_final, nombre_archivo, 
 format_list.append(format.format(
     "name", "string", util.col2num("B"), "", "", ""))
 format_list.append(format.format("project_id", "many2one",
-                   util.col2num("A"), "NoCreate", "project.project", "name"))
+                   util.col2num("A"), "Create", "project.project", "name"))
 format_list.append(format.format(
     "description", "string", util.col2num("D"), "", "", ""))
 format_list.append(format.format(
@@ -82,7 +82,7 @@ format_list.append(format.format(
 format_list.append(format.format(
     "recurring_task", "boolean", util.col2num("F"), "", "", ""))
 format_list.append(format.format("stage_id", "many2one",
-                   util.col2num("C"), "Create", "project.task.type", "name"))
+                   util.col2num("C"), "NoCreate", "project.task.type", "name"))
 format_list.append(format.format("repeat_unit", "selection", util.col2num("G"), [(
     "Días", "day"), ("Semanas", "week"), ("Meses", "month"), ("Años", "year")], "", ""))
 format_list.append(format.format("repeat_type", "static", 1, "after", 1, 1))
@@ -110,7 +110,7 @@ u.upload("project.task", format_list, fila_inicial, fila_final, nombre_archivo, 
 format_list.append(format.format(
     "name", "string", util.col2num("B"), "", "", ""))
 format_list.append(format.format("project_id", "many2one",
-                   util.col2num("A"), "NoCreate", "project.project", "name"))
+                   util.col2num("A"), "Create", "project.project", "name"))
 format_list.append(format.format(
     "description", "string", util.col2num("D"), "", "", ""))
 format_list.append(format.format(
@@ -118,7 +118,7 @@ format_list.append(format.format(
 format_list.append(format.format(
     "recurring_task", "boolean", util.col2num("F"), "", "", ""))
 format_list.append(format.format("stage_id", "many2one",
-                   util.col2num("C"), "Create", "project.task.type", "name"))
+                   util.col2num("C"), "NoCreate", "project.task.type", "name"))
 format_list.append(format.format("repeat_unit", "selection", util.col2num("G"), [(
     "Días", "day"), ("Semanas", "week"), ("Meses", "month"), ("Años", "year")], "", ""))
 format_list.append(format.format("repeat_type", "static", 1, "after", 1, 1))

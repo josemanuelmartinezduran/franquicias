@@ -4,8 +4,6 @@ class utilities():
     def cleanNumber(self, texto):
         nuevoTexto = texto.strip()
         nuevoTexto= nuevoTexto.replace("-", "")
-        nuevoTexto= nuevoTexto.replace(".", "")
-        nuevoTexto= nuevoTexto.replace(".", "")
         nuevoTexto= nuevoTexto.replace(",", "")
         nuevoTexto= nuevoTexto.replace("/", "")
         nuevoTexto= nuevoTexto.replace("&", "")
@@ -143,7 +141,7 @@ class utilities():
             contador += 1
 
     def strToBoolean(self, texto):
-        if texto.upper() in ["SI", "VERDADERO", "TRUE", "OK", "YES"]:
+        if texto.strip().upper() in ["SI", "SÍ", "VERDADERO", "TRUE", "OK", "YES"]:
             return True
         else:
             return False
